@@ -1,4 +1,4 @@
-# The Last Republic (Omega's Prophesy) - Rules and Information
+# The Last Republic (Omega's Prophesy) - Rules
 ![Rules](https://cdn.discordapp.com/attachments/529655537613275156/548209400528240641/unknown.png)
 ### _Security_
 1. Do not share your personal information (adress, passwords, phone numbers...) publicly.
